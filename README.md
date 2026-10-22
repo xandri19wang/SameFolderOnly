@@ -1,0 +1,2 @@
+# SameFolderOnly
+SameFolderOnly for Windhawk
