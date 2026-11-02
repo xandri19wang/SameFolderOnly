@@ -50,4 +50,6 @@ This mod reuses and modifies the original MIT-licensed drag-and-drop and recycle
 
 本 Mod 基于 iMAboud 的 Drag to Delete 开源代码修改，保留原作者署名和 MIT 授权说明。新版加入鼠标跟随、起点附近模式、自定义静态/动态图标，以及批量回收和撤销改进；原版顶部位置仍可选择。
 
+**Can't see the GIFs?** [Nearby](https://raw.githubusercontent.com/xandri19wang/SameFolderOnly/drag-trash-demo-assets/drag-trash-demos/nearby.gif) · [Follow](https://raw.githubusercontent.com/xandri19wang/SameFolderOnly/drag-trash-demo-assets/drag-trash-demos/follow-cursor.gif) · [Top](https://raw.githubusercontent.com/xandri19wang/SameFolderOnly/drag-trash-demo-assets/drag-trash-demos/screen-top.gif) · [System icon](https://raw.githubusercontent.com/xandri19wang/SameFolderOnly/drag-trash-demo-assets/drag-trash-demos/system-icon.gif).
+
 **Note / 注意:** Virtual desktop icons without real file paths cannot be recycled. Ctrl+Z may not work after Explorer restarts or the Recycle Bin is emptied. No third-party GIFs are included with the mod.
