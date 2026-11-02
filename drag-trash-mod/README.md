@@ -40,7 +40,6 @@ Use the Windows Recycle Bin icon, a local PNG/JPG/BMP/ICO/GIF, or a direct HTTPS
 
 - **Batch recycling / 批量回收:** Drop several files together in one Shell operation.
 - **Ctrl+Z undo / 撤销:** Restore a supported recycle operation in File Explorer (within the active Shell session).
-- **Adjustable placement / 位置可调:** Choose follow, nearby, or top; adjust the icon size and separate desktop/folder distances.
 - **Lightweight / 轻量:** GIF playback runs only while dragging. HTTPS images are downloaded to local cache on configuration/reload, never during a drag.
 
 ## Credits & license / 原作者与授权

@@ -4,7 +4,7 @@
 // @name:zh-CN      一拖即删
 // @description     Drag & Trash: a cursor-following or nearby/top Recycle Bin with custom still/animated icons, batch recycling and Ctrl+Z undo.
 // @description:zh-CN 一拖即删：回收站可跟随鼠标或显示在附近/顶部，支持自定义静态/动态图标，并保留批量删除与 Ctrl+Z 撤销。
-// @version         1.1.5
+// @version         1.1.6
 // @author          XandriW
 // @github          https://github.com/xandri19wang
 // @include         explorer.exe
@@ -55,7 +55,6 @@ Use the Windows Recycle Bin icon, a local PNG/JPG/BMP/ICO/GIF, or a direct HTTPS
 
 - **Batch recycling / 批量回收:** Drop several files together in one Shell operation.
 - **Ctrl+Z undo / 撤销:** Restore a supported recycle operation in File Explorer (within the active Shell session).
-- **Adjustable placement / 位置可调:** Choose follow, nearby, or top; adjust the icon size and separate desktop/folder distances.
 - **Lightweight / 轻量:** GIF playback runs only while dragging. HTTPS images are downloaded to local cache on configuration/reload, never during a drag.
 
 ## Credits & license / 原作者与授权
